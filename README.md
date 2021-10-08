@@ -29,7 +29,7 @@
 
 * Data Sequence Split
 
-  ![1.png](images\1.png)
+  ![1.png](images/1.png)
 
 * breath_id = 1의 u_in, u_out, pressure
 * u_in이 양수일 때, 즉 공기가 들어가고 있을 때 pressure가 점점 상승하다가, u_out이 1로 바뀌는 순간 u_in은 0으로 바뀌고 pressure도 급락함
